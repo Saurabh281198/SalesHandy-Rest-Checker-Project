@@ -1,0 +1,13 @@
+[
+{
+  "request": {
+    "method": "get",
+    "url": "https://reqres.in/api/users"
+  },
+  "assertions": {
+    "responseCode": 200,
+    "contentType": "application/json",
+    "maxResponseTimeInMiliseconds": 500
+  }
+}
+]
