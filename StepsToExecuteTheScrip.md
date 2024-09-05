@@ -1,6 +1,6 @@
 Steps to execute the test script: -
 [ Note: -  In this project, a file named “AboutThisProject” is there please go through it as it contains valuable insight about this project.]
-1.	Open the postman application and import the “SalesHandy Project.postman_collection” file..
+1.	Open the postman application and import the “SalesHandy Project.postman_collection” file.
 
  
 
