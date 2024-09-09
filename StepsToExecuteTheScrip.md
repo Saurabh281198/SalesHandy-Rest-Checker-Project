@@ -9,18 +9,18 @@ Steps to execute the test script: -
  
 
 3.	Then click on Run.
- 
+  
 
-4.	Once the runner tab is opened then upload the endpoints/**.json file (which will be available under api-automation >> endpoints >> .json Files) by clicking the Select File.
-
- 
-
-5.	Once the file is uploaded then click on Persist responses for a session (if we want to see the response being displayed in the result page) and then click on Run SalesHandy Project.
+5.	Once the runner tab is opened then upload the endpoints/**.json file (which will be available under api-automation >> endpoints >> .json Files) by clicking the Select File.
 
  
 
+6.	Once the file is uploaded then click on Persist responses for a session (if we want to see the response being displayed in the result page) and then click on Run SalesHandy Project.
 
-6.	Once we have clicked on Run SalesHandy Project, then the result of all the tests will be displayed and then we can verify the status.
+ 
+
+
+7.	Once we have clicked on Run SalesHandy Project, then the result of all the tests will be displayed and then we can verify the status.
 
  
 
